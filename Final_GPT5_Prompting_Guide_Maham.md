@@ -18,7 +18,7 @@ Think of it as: 🧠 A Researcher \+ 📜 A Writer \+ 🖥 A Coder \+ 📊 A Str
 | Data Analysis | Interpret, visualize, recommend | Analyze my CSV for sales dips and causes. |
 | Communication & Branding | CVs, posts, bios | Write a professional bio for my LinkedIn. |
 
-# **3\. Prompting Formula (PE-Approved)**
+# **3\. Prompting Formula**
 
 Role \+ Action \+ Context \+ Constraints \+ Output Format
 
@@ -31,7 +31,7 @@ Output Format: Bullet points
 
 Final Prompt: You are an academic editor. Summarize three recent AI ethics papers in plain English, under 300 words, in bullet points.
 
-# **4\. Strategies for Best Output (MT-Approved)**
+# **4\. Strategies for Best Output**
 
 • Be Specific – Detail the goal clearly.
 
